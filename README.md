@@ -43,7 +43,7 @@ Functional Simulation:
 	After this you can see the window like below 
 
 
-##Fig 2: Invoke the Cadence Environment
+## Fig 2: Invoke the Cadence Environment
 
 
 ## Creating Source Code:
@@ -75,13 +75,13 @@ Functional Simulation:
 
 It will invoke the nclaunch window for functional simulation we can compile,elaborate and simulate it using Multiple step
 
-## Fig 3:Setting Multi-step simulation
+## Fig 3: Setting Multi-step simulation
 
 Select Multiple Step and then select “Create cds.lib File” as shown in below figure
 
 Click the cds.lib file and save the file by clicking on Save option
 
-## Fig 4:cds.lib file Creation
+## Fig 4: cds.lib file Creation
 
 	Save cds.lib file and select the correct option for cds.lib file format based on the  HDL Language and Libraries used.
 
@@ -166,7 +166,7 @@ It contains statements that map logical library names to their physical director
 
 ## Fig 9: Design Browser window for simulation
 
-## Fig 10:Simulation Waveform Window
+## Fig 10: Simulation Waveform Window
 
-## Fig 11:Simulation Waveform Window
+## Fig 11: Simulation Waveform Window
 
