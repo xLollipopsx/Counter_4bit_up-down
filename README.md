@@ -81,7 +81,7 @@ Select Multiple Step and then select “Create cds.lib File” as shown in below
 
 Click the cds.lib file and save the file by clicking on Save option
 
-##Fig 4:cds.lib file Creation
+## Fig 4:cds.lib file Creation
 
 	Save cds.lib file and select the correct option for cds.lib file format based on the  HDL Language and Libraries used.
 
@@ -89,7 +89,7 @@ Click the cds.lib file and save the file by clicking on Save option
 
 	We are simulating verilog design without using any libraries
 
-##Fig 5: Selection of Don’t include any libraries
+## Fig 5: Selection of Don’t include any libraries
 
 	A Click “OK” in the “nclaunch: Open Design Directory” window
 
